@@ -1,0 +1,23 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "Completed tasks for Node.js training",
+  "main": "task1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zagula/node_training.git"
+  },
+  "keywords": [
+    "node",
+    "training"
+  ],
+  "author": "Andrei Tsiarnouski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zagula/node_training/issues"
+  },
+  "homepage": "https://github.com/Zagula/node_training#readme"
+}
