@@ -1,4 +1,9 @@
-let person = require("./task1/person");
+let args = process.argv.slice(2); // only command line arguments
 
-person.name = "Andrey"
-person.greeting();
+let result = args.reduce((prev, current) => {
+    if (parseFloat(current)) // skip NaN
+        return prev + parseFloat(current);
+    return prev;
+}, 0) // avoid validate "prev" value
+
+process.stdout.write(result.toString());
