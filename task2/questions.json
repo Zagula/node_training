@@ -1,0 +1,102 @@
+[
+    {
+        "title": "Node.js runs on ________.",
+        "correct": "b",
+        "answer": {
+            "a": "Client",
+            "b": "Server",
+            "c": "Both, server and client",
+            "d": "None of the above"
+        }
+    },
+    {
+        "title": "Node.js is ________ by default.",
+        "correct": "c",
+        "answer": {
+            "a": "Synchronous",
+            "b": "Multi-threaded",
+            "c": "Asynchronous",
+            "d": "None of the above"
+        }
+    },
+    {
+        "title": "Node.js supports which of the following platform?",
+        "correct": "d",
+        "answer": {
+            "a": "Windows",
+            "b": "Macintosh",
+            "c": "Unix/Linux",
+            "d": "All of the above"
+        }
+    },
+    {
+        "title": "Node.js terminal (REPL) is used for ________.",
+        "correct": "a",
+        "answer": {
+            "a": "testing node.js/JavaScript expressions",
+            "b": "executing browser’s JavaScript expressions.",
+            "c": "the preview of node.js application.",
+            "d": "None of the above"
+        }
+    },
+    {
+        "title": "What is the default scope in Node.js application.",
+        "correct": "a",
+        "answer": {
+            "a": "Global",
+            "b": "Local",
+            "c": "Global Function",
+            "d": "Local to object"
+        }
+    },
+    {
+        "title": "Node.js application runs on ________.",
+        "correct": "b",
+        "answer": {
+            "a": "Multiple threads",
+            "b": "Single thread",
+            "c": "Multiple Processes",
+            "d": "Single Process"
+        }
+    },
+    {
+        "title": "Simple or complex functionality organized in a single or multiple JavaScript files which can be reused throughout your Node.js application is called ________.",
+        "correct": "a",
+        "answer": {
+            "a": "Module",
+            "b": "Library",
+            "c": "Package",
+            "d": "Function"
+        }
+    },
+    {
+        "title": "The Node.js modules can be exposed using ________.",
+        "correct": "c",
+        "answer": {
+            "a": "module.expose",
+            "b": "module",
+            "c": "module.exports",
+            "d": "all of the above"
+        }
+    },
+    {
+        "title": "Third-party packages can be install/update/delete using ________.",
+        "correct": "a",
+        "answer": {
+            "a": "Node Package Manager",
+            "b": "Node.exe",
+            "c": "Module.exports",
+            "d": "REPL"
+        }
+    },
+    {
+        "title": "Which of the following core module is used to create a web server in Node.js?",
+        "correct": "d",
+        "answer": {
+            "a": "fs",
+            "b": "url",
+            "c": "connect",
+            "d": "http"
+        }
+    }
+]
